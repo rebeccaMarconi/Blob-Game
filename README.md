@@ -5,6 +5,6 @@ In this game, the user guides a blob that seeks to absorb the ellipses that appe
 
 This is a skill game meant to go on for as long as you are able, play alone or compete to beat your friends' scores. 
 
-![Screen Capture](https://github.com/rebeccaMarconi/Blob-Game/Master/Blob-Game-ss.png)
+![Screen Capture](https://github.com/rebeccaMarconi/Blob-Game/blob/master/Blob-Game-ss.png)
 >Link to video of the program running
 https://vimeo.com/user95816867/review/336827214/dc8a9c8c6b
